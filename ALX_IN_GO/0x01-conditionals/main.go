@@ -23,6 +23,6 @@ func main() {
 	PrintSingle()
 	fmt.Println("-----Task Six-----")
 	PrintDoubles()
-	// fmt.Println("-----Task Six-----")
+	fmt.Println("-----Task Six-----")
 	PrintTripples()
 }
